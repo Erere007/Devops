@@ -1,0 +1,7 @@
+C:\devops\publish\devops.exe
+C:\devops\publish\appsettings.Development.json
+C:\devops\publish\appsettings.json
+C:\devops\publish\devops.dll
+C:\devops\publish\devops.deps.json
+C:\devops\publish\devops.runtimeconfig.json
+C:\devops\publish\devops.pdb
